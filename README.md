@@ -8,3 +8,4 @@ Punto#4:https://github.com/Cristian1609/Punto04_Crucigrama
 Correccion Taller 
 
 punto#1 :  https://github.com/Cristian1609/Punto01_reverso_V2.0
+punto#2 : https://github.com/Cristian1609/Punto02_Inventario_V2.0
