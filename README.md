@@ -4,3 +4,7 @@ Punto#1 : https://github.com/Cristian1609/Punto01_Reverso
 Punto#2 :https://github.com/Cristian1609/Punto02_Inventario
 Punto#3: https://github.com/Cristian1609/Punto03_Operaciones
 Punto#4:https://github.com/Cristian1609/Punto04_Crucigrama
+
+Correccion Taller 
+
+punto#1 :  https://github.com/Cristian1609/Punto01_reverso_V2.0
