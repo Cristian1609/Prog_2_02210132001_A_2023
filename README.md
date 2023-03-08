@@ -14,3 +14,5 @@ punto#4 : https://github.com/Cristian1609/Punto04_Crucigrama_V2.0
 
 TALLER#3 : https://github.com/Cristian1609/Taller3
 
+TALLER #4 BUCLES,CONDICIONALES,ARRAYS: https://github.com/Cristian1609/Bucles_Condicionales-Array-1.0
+
