@@ -1,5 +1,5 @@
 #Taller 1: https://github.com/Cristian1609/Prog_2_02210132001_A_2023
-Primer Taller
+-----------------------------------PRIMER CORTE ---------------------------------------
 Punto#1 : https://github.com/Cristian1609/Punto01_Reverso
 Punto#2 :https://github.com/Cristian1609/Punto02_Inventario
 Punto#3: https://github.com/Cristian1609/Punto03_Operaciones
@@ -16,3 +16,6 @@ TALLER#3 : https://github.com/Cristian1609/Taller3
 
 TALLER #4 BUCLES,CONDICIONALES,ARRAYS: https://github.com/Cristian1609/Bucles_Condicionales-Array-1.0
 
+---------------------------------SEGUNDO CORTE ------------------------------------------------
+
+PRIMER TALLER: (CORRECCION EJERCICIOS PARCIAL PRACTICO): https://github.com/Cristian1609/CorreccionParcial
