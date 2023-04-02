@@ -19,4 +19,10 @@ TALLER #4 BUCLES,CONDICIONALES,ARRAYS: https://github.com/Cristian1609/Bucles_Co
 ---------------------------------SEGUNDO CORTE ------------------------------------------------
 
 PRIMER TALLER: (CORRECCION EJERCICIOS PARCIAL PRACTICO): https://github.com/Cristian1609/CorreccionParcialV2.0
+
+Nota: Profe, este link es el mismo dla parte superior denominado "PRIMER TALLER CORRECCION PARCIAL", tuve una falencia solo en agregar el group id "co.edu.uds.Ejercicios, adjunto link:https://github.com/Cristian1609/parcial
+
+No existio ningun cambio a los ejercicios, como prueba quedan ambos adjuntos.
+
 SEGUNDO TALLER:(ATRIBUTOS DE LAS CLASES ASIGNADAS):https://github.com/Cristian1609/AtributosV2.0
+
