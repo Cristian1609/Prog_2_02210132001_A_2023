@@ -27,3 +27,6 @@ No existio ningun cambio a los ejercicios, como prueba quedan ambos adjuntos.
 SEGUNDO TALLER:(ATRIBUTOS DE LAS CLASES ASIGNADAS):https://github.com/Cristian1609/AtributosV2.0
 TERCER TALLER:(CLASES CINE Y SUPERMERCADO): https://github.com/Cristian1609/Cine_Supermercado
 
+--------------------------------------------ACTIVIDADES PARA EL 3 CORTE---------------------------------------------
+PRIMERA ACTIVIDAD: https://github.com/Cristian1609/Parcial2 
+
